@@ -1,0 +1,11 @@
+{
+  "name": "tugas-pekan-5-cypress-ui-testing",
+  "version": "1.0.0",
+  "description": "Tugas Pekan 5 - Cypress UI Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "ArySetiyawan (parys410@gmail.com)",
+  "license": "ISC"
+}
