@@ -4,8 +4,13 @@
   "description": "Tugas Pekan 5 - Cypress UI Testing",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress open",
+    "test-video": "npx cypress run"
   },
   "author": "ArySetiyawan (parys410@gmail.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^11.2.0"
+  }
 }
